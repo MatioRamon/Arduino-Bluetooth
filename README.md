@@ -1,5 +1,5 @@
 # Arduino-Bluetooth Program
-Arduino With HC-05 &amp; MIT APP Andriod App
+Arduino With HC-05 &amp; MIT Andriod App
 
 
 ![IMG20230317175741](https://user-images.githubusercontent.com/126864106/225874732-a65556aa-50f0-4945-9ff5-d0c9a87f132e.jpg)
